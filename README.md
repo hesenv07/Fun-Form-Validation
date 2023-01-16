@@ -3,4 +3,4 @@
   <h2>git clone </h2>
   <h2>npm install</h2>
   <h2>npm run dev</h2>
-Link : https://funny-form-validation.netlify.app/
+<h3> : [https://funny-form-validation.netlify.app/](https://hesenov-funny-form-validation.netlify.app/) <h3/>
